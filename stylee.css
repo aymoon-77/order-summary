@@ -131,7 +131,7 @@ span{
 /*!media query  */
 @media screen and (min-width:1200px) {
     main{
-        width: 28%;
+        width: 20%;
     }
     body{
         background-image:url(./images/pattern-background-desktop.svg) ;
